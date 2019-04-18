@@ -3,7 +3,7 @@ module.exports = {
     title: 'React & Gatsby shop powered by Snipcart',
     author: "Snipcart's geeks",
     description: "A snipcart's demo using React and Gatsby.",
-    siteUrl: 'https://snipcart-react-gatsby.netlify.com/',
+    siteUrl: 'https://ecom-demo-staging.heroku.com/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [

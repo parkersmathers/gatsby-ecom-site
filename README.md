@@ -19,3 +19,7 @@ Steps:
 > See the live demo [here](https://snipcart-react-gatsby.netlify.com/)
 
 Enjoy folks!
+
+Deploying to Heroku info:
+- https://medium.freecodecamp.org/how-to-deploy-a-static-gatsby-app-to-heroku-3362e3ecda0f
+- https://www.gatsbyjs.org/docs/deploying-to-heroku/
